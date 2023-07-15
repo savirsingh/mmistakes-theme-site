@@ -2,7 +2,7 @@
 layout: single
 title:  "Using Thatformworks to make your HTML forms work"
 date:   2023-07-15 12:56:00 -0400
-categories: projects
+categories: Projects
 ---
 
 A quick & simple guide to getting started with Thatformworks
