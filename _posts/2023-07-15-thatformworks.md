@@ -5,6 +5,9 @@ date:   2023-07-15 12:56:00 -0400
 categories: projects
 ---
 
+A quick & simple guide to getting started with Thatformworks
+---
+
 In August 2022, I started a project that, once complete, would allow me to make HTML contact/reservation forms work. By January 2023, I completed a simple working version of this project - and decided to make it open for everyone as a free service. In this post, I go through the steps to use Thatformworks to make your HTML forms function properly.
 ---
 
