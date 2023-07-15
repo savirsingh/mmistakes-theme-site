@@ -323,6 +323,9 @@
     }
   }
 }
+.greedy-nav .visible-links a:before {
+  background-color: red;
+}
 
 .no-js {
   .greedy-nav {
