@@ -17,13 +17,13 @@ I'd recommend the first option since I very rarely check for pull requests and m
 
 ---
 
-### Option 1: Sending an online request:
+### Option 1 - Sending an online request:
 
 In order to send an online request, navigate to [the Thatformworks website](https://thatformworks.pythonanywhere.com). Next, type in your email address and submit the form! Soon, a team member will contact you regarding the setup of Thatformworks. It is usually a quick, free, and simple process.
 
 ---
 
-### Option 2: Creating a pull request:
+### Option 2 - Creating a pull request:
 
 In order to create a pull request, visit the [GitHub repository](https://github.com/savirsingh/thatformworks) and make the request. It will likely take a long time to be reviewed and merged, which is why the first option is preferred.
 
