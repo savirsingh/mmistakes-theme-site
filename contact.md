@@ -21,7 +21,6 @@ Feel free to reach out to Savir using the contact information below. I'd love to
 
 If you prefer, you can also use the contact form below to send me a message directly. I will respond to you via email.
 
-```liquid
 {% raw %}
 <form action="https://thatformworks.pythonanywhere.com/mailsavir" method="POST">
   <div class="form-group">
