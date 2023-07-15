@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact Savir
-permalink: /projects/
+permalink: /contact/
 
 toc: true
 toc_label: Contact
