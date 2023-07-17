@@ -20,7 +20,7 @@ title                    : "Savir Singh - Official Website"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Savir Singh"
-description              : "I'm a Canadian high school student "
+description              : "Hi, I'm Savir Singh! I'm a high school student from Canada. I love developing software, creating new technologies, competitive programming, and math, just to name a few things."
 url                      : "https://savirsingh.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "savirsingh/savirsingh.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
