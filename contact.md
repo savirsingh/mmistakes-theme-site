@@ -15,7 +15,6 @@ Feel free to reach out to Savir using the contact information below. I'd love to
 
 - **Email:** [savirsinghwork@gmail.com](mailto:savirsinghwork@gmail.com)
 - **Twitter:** @kopichiki
-- **Discord:** @savirs
 
 ### Contact Form
 
