@@ -22,7 +22,7 @@ The question of whether $$P$$ (problems solvable in polynomial time) equals $$NP
 ---
 
 ### 3. Fermat's Little Theorem
-If $$p$$ is a prime number and $$a$$ is any integer not divisible by $$p$$, then $$a^{(p-1)}$$ is congruent to $$1\spacemodulo\spacep$$.
+If $$p$$ is a prime number and $$a$$ is any integer not divisible by $$p$$, then $$a^{(p-1)}$$ is congruent to $$1 \space modulo \space p$$.
 
 ### 4. The Monster Group
 The Monster Group is the largest sporadic simple group and has 808,017,424,794,512,875,886,459,904,961,710,757,005,754,368,000,000, which is known as its order.
