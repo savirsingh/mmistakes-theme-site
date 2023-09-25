@@ -15,11 +15,9 @@ categories: Math
 
 ### 1. Riemann Hypothesis
 The Riemann Hypothesis is one of the most famous unsolved problems in mathematics. It concerns the distribution of nontrivial zeros of the Riemann zeta function, ζ(s).
----
 
 ### 2. P vs. NP Problem
 The question of whether $$P$$ (problems solvable in polynomial time) equals $$NP$$ (problems whose solutions can be verified in polynomial time) is a major unsolved problem in computer science and mathematics.
----
 
 ### 3. Fermat's Little Theorem
 If $$p$$ is a prime number and $$a$$ is any integer not divisible by $$p$$, then $$a^{(p-1)}$$ is congruent to $$1 \space modulo \space p$$.
