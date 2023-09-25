@@ -55,7 +55,7 @@ In computational complexity theory, BPP is the class of decision problems solvab
 Cantor's Theorem proves that there are more real numbers between 0 and 1 than there are natural numbers.
 
 ### 14. The Basel Problem
-The Basel Problem, solved by Leonhard Euler, establishes that the sum of the reciprocals of the squares of the natural numbers converges to $$\pi^{2/6}$$.
+The Basel Problem, solved by Leonhard Euler, establishes that the sum of the reciprocals of the squares of the natural numbers converges to $$\pi^{\frac{2/6}}$$.
 
 ### 15. Gödel's Incompleteness Theorems
 Kurt Gödel's theorems show that in any formal system of mathematics, there exist statements that are undecidable within that system.
