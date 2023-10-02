@@ -7,12 +7,18 @@ toc: true
 toc_label: Projects
 ---
 
+## My Coolest Projects
+
+I have *a lot* of projects, but here I have compiled a list of my favourite projects, including some of my biggest achievements.
+* [BYTEsense](https://github.com/savirsingh/bytesense-htn-project) - BYTEsense is a Replit-hosted project built by me along with three other team members for Hack the North 2023. It is a prototype of a potentially life-changing tool which asks people to enter data after consuming a meal. Users give each meal a rating out of 3, and based on their ratings, BYTEsense will use LLMs, the OpenAI and Cohere APIs, and training data stored in a database to inform users how they will feel after consuming the meal. Our project won 2<sup>nd</sup> place for the "Best Hack Built on Replit". We were one of 250 teams at Canada's largest invite-only hackathon.
+
 ## Open-Source Projects
 
 Since I frequently use GitHub, I have quite a few open-source projects in a variety of languages. Below is a table of interesting projects in no particular order.
 
 * [This Website](https://github.com/savirsingh/savirsingh.github.io)
 * [My Old Website](https://github.com/savirsingh/my-style-website)
+* [BYTEsense - HTN 2023 Replit Winner](https://github.com/savirsingh/bytesense-htn-project)
 * [Py To CPP](https://github.com/savirsingh/pytocpp)
 * [Thatformworks](https://github.com/savirsingh/thatformworks)
 * [SavirCSS](https://github.com/savirsingh/savircss)
