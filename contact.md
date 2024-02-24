@@ -19,6 +19,7 @@ Feel free to reach out to Savir using the contact information below. I'd love to
 ### Contact Form
 
 If you prefer, you can also use the contact form below to send me a message directly. I will respond to you via email.
+**Update: Please use my email instead of this form. My form service has not been updated recently and the technologies being used are outdated. This means I will _not_ receive your message.**
 
 {% raw %}
 <form action="https://thatformworks.pythonanywhere.com/mailsavir" method="POST">
