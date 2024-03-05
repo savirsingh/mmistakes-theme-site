@@ -94,11 +94,11 @@ header ul li:hover {
 }
 
 header a {
-  color: #fff;
+  color: #ccc;
 }
 
 body.dark header a {
-  color: #ccc;
+  color: #fff;
 }
 
 imagebox {
