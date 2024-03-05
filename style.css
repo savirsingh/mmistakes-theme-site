@@ -100,7 +100,7 @@ header a {
 }
 
 header a:hover {
-  color: ff6347;
+  color: #ff6347;
 }
 
 body.dark header a {
