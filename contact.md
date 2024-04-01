@@ -13,7 +13,7 @@ Feel free to reach out to Savir using the contact information below. I'd love to
 
 ### Contact Details
 
-- **Email:** [savir@savirsingh.com](mailto:savir@savirsingh.com)
+- **Email:** [savirsinghwork@gmail.com](mailto:savirsinghwork@gmail.com)
 - **Twitter:** @kopichiki
 
 ### Contact Form
