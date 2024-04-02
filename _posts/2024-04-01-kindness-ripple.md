@@ -2,7 +2,7 @@
 layout: single
 title:  "Introducing The Kindness Ripple - 3 Random Acts of Kindness Every Day"
 date:   2024-04-01 21:10:00 -0400
-categories: Math
+categories: Projects
 ---
 
 {% include mathjax.html %}
