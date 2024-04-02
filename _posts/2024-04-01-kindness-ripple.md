@@ -40,6 +40,3 @@ I believe that kindness has the power to change the world, and I invite you to j
 With kindness,
 
 Savir Singh
-
-
-**No, this is not an April Fools' joke. It's a funny coincidence :)**
