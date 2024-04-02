@@ -12,7 +12,7 @@ Creating a Ripple of Kindness: Join the Daily Kindness Ripple Movement
 
 **No, this is not an April Fools' joke. It's a funny coincidence :)**
 
-**Join the movement here: https://www.savirsingh.com/kindness-ripple**
+**Join the movement here: [www.savirsingh.com/kindness-ripple](https://www.savirsingh.com/kindness-ripple)**
 
 Dear friends,
 
