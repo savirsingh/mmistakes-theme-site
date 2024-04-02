@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Introducing The Kindness Ripple - 3 Random Acts of Kindness Every Day"
-date:   2023-09-25 19:20:00 -0400
+date:   2024-04-01 19:20:00 -0400
 categories: Math
 ---
 
@@ -10,9 +10,13 @@ categories: Math
 Creating a Ripple of Kindness: Join the Daily Kindness Ripple Movement
 ---
 
+**No, this is not an April Fools' joke. It's a funny coincidence :)**
+
+**Join the movement here: https://www.savirsingh.com/kindness-ripple**
+
 Dear friends,
 
-I am incredibly excited to introduce you to a project that is very close to my heart: the Daily Kindness Ripple movement. This initiative is not just a website; it's a heartfelt movement dedicated to spreading joy, kindness, and compassion, three small acts at a time.
+I am incredibly excited to introduce you to a project that is very close to my heart: the [Daily Kindness Ripple movement](/kindness-ripple). This initiative is not just a website; it's a heartfelt movement dedicated to spreading joy, kindness, and compassion, three small acts at a time.
 
 ## What is the Daily Kindness Ripple?
 At the heart of the Daily Kindness Ripple movement are three simple acts of kindness, added to the website every day at 12AM UTC. These acts are small but meaningful gestures that anyone can do to make a positive impact on the world around them. Whether it's a smile, a kind word, or a helping hand, every act of kindness has the power to create a ripple effect, spreading joy and happiness far and wide.
